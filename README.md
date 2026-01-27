@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @narcisradoi
-- 👀 I’m interested in React, TypeScript, Node, Business Process Automation
+- 👀 I’m interested in Microsoft ecosystem - Azure, Dynamics CE and FO, Microsoft 365, Synapse, Fabric, PowerBI etc and products developed on it using React, TypeScript, C# 
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me -> https://www.linkedin.com/in/narcisradoi/
